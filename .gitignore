@@ -1,0 +1,7 @@
+.env
+node_modules
+.webappignore
+.vscode/
+.deployment
+api/node_modules
+local.settings.json
